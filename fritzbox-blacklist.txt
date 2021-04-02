@@ -20,6 +20,7 @@ criteo.net
 doubleclick.com
 doubleclick.net
 edgesuite.net
+flashtalking.com
 google-analytics.com
 googlesyndication.com
 intellitxt.com
